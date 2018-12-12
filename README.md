@@ -5,3 +5,7 @@ This is my professional portfolio. It uses AWS and React.
 Git
 Github
 SSH
+HTML
+CSS
+Font Awesome
+Google Fonts
