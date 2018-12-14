@@ -3,12 +3,12 @@ version: 0.1
 phases:
   build:
     commands:
-      - echo `$BUILD_COMMAND`
+      - echo Nothing to do yet
 
 artifacts:
   files:
-    -index.html
-    -favicon.ico
-    -my-resume.pdf
-    -styles/main.css
-    -images/*
+    - index.html
+    - favicon.ico
+    - my-resume.pdf
+    - styles/main.css
+    - images/*
