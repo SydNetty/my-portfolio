@@ -3,7 +3,8 @@ version: 0.1
 phases:
   build:
     commands:
-      - echo Nothing to do yet
+      - echo `$BUILD_COMMAND`
+
 artifacts:
   files:
     -index.html
